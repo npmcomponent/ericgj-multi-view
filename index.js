@@ -1,5 +1,5 @@
-var Emitter = require('emitter')
-  , classes = require('classes')
+var Emitter = require('component-emitter')
+  , classes = require('component-classes')
 
 module.exports = MultiView;
 
